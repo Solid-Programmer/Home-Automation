@@ -1,8 +1,7 @@
-# Home-Automation
+# Home-Automation-System
 Home Automation System using Raspberry Pi (Internet of Things)
 
 This project contains a folder named "website", a SQL Database backup named "home automation system" and report named "Final Report.pdf".
-
 
 Below are the steps to run "Home Automation System" application on your PC:
 
